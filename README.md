@@ -1,6 +1,6 @@
 # IROOM-ASSISTANT
 
-[iRoom Assistant Report]([http://dillinger.io/](https://github.com/fly0331/IROOM-ASSISTANT/blob/main/iRoom%20Assistant%20Report.pdf) "link")
+[iRoom Assistant Report](https://github.com/fly0331/IROOM-ASSISTANT/blob/main/iRoom%20Assistant%20Report.pdf "link")
 ## 專題動機：
 1. 社會疫情時期，點名與打卡重要但難確實記錄。
 2. 以人臉辨識替代不確實的點名方式，提高人員掌控。
